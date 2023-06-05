@@ -45,8 +45,9 @@ Function: Same-digit entry prevention, winner indication, CPU on board (will be 
 
 💡 Play 💡
 -------------
-
-![tictactoe1](https://github.com/PQ777/TicItacTie/assets/102477933/89171c9c-be54-4e87-817f-7eddabe5cd7e)
-
+![tictactoe1](https://github.com/PQ777/TicItacTie/assets/102477933/8283d012-a232-4979-bbbe-c87c78d9846c)
   
-![tictactoe2](https://github.com/PQ777/TicItacTie/assets/102477933/debc6b71-f18c-4c68-ad0d-8f41031e99ed)
+![tictactoe2](https://github.com/PQ777/TicItacTie/assets/102477933/02b28bb8-2055-412f-9fb1-fa8a8baadc49)
+
+
+
